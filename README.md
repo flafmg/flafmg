@@ -10,8 +10,8 @@ Hello there! I'm flafmg<br><br>I like to do random stuff such as a Minecraft ser
     <td><img src="https://github-readme-stats.vercel.app/api?username=flafmg&theme=rose&hide_border=true&include_all_commits=false&count_private=false"/></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=flafmg&theme=rose&hide_border=true"/></td>
   </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flafmg&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></td>
-  </tr>
 </table>
 
+<center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flafmg&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</center>
