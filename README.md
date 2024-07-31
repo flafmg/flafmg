@@ -6,14 +6,10 @@ Hello there! I'm flafmg<br><br>I like to do random stuff such as a Minecraft ser
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flafmg&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=flafmg&theme=rose&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flafmg&theme=rose&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=flafmg&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flafmg&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
