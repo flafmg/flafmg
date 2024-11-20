@@ -1,7 +1,7 @@
 # 🌟 **About Me**  
 Hi there! I'm **flafmg** 👋  
-💻 Passionate about building creative projects :D
-🌍 Based in **Brazil**, proud cat lover 🐾, and a fan of tinkering with random ideas :p
+- 💻 Passionate about building creative projects :D
+- 🌍 Based in **Brazil**, proud cat lover 🐾, and a fan of tinkering with random ideas :p
 
 ---
 
