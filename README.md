@@ -26,8 +26,6 @@ Here are the technologies I enjoy working with:
 ---
 
 # 🔭 **What I’m Working On**  
-- 🛠 Building a **Client for ArtifactsMMO in JAVA**
-- 💡 Exploring **Rust** for low-level systems programming.  
 - 🎯 Tackling random programming challenges and learning new things every day!  
 
 ---
