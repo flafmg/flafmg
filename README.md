@@ -1,41 +1,42 @@
-# 🌟 **About Me**  
-Hi there! I'm **flafmg** 👋  
-- 💻 Passionate about building creative projects :D
-- 🌍 Based in **Brazil**, proud cat lover 🐾, and a fan of tinkering with random ideas :p
+# 👋 Hi, I'm **flafmg**
+
+💻 Passionate about building creative projects
+🌍 From **Brazil** | 🐱 Cat lover | 🎮 I do silly stuff
 
 ---
 
-# 💻 **Tech Stack**  
-Here are the technologies I enjoy working with:  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
+### 🧰 Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-# 📊 **GitHub Stats**  
+### 📊 GitHub Stats
+
+<div align="center">
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=flafmg&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only&theme=default#gh-light-mode-only" alt="GitHub Stats"/>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=flafmg&show_icons=true&theme=dark#gh-dark-mode-only" alt="flaffmg's GitHub Stats (Dark)" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=flafmg&show_icons=true&theme=default#gh-light-mode-only" alt="flaffmg's GitHub Stats (Light)" />
+      </a>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flafmg&hide_border=true&layout=compact&theme=dark#gh-dark-mode-only&theme=default#gh-light-mode-only" alt="Most Used Languages"/>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages (Dark)" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax&layout=donut&theme=default#gh-light-mode-only" alt="Top Languages (Light)" />
+      </a>
     </td>
   </tr>
-</table>  
+</table>
 
----
+</div>
 
-# 🔭 **What I’m Working On**  
-- 🎯 Tackling random programming challenges and learning new things every day!  
 
----
-
-# 🎮 **Fun Facts About Me**  
-- 🌌 I love experimenting with random project ideas to learn and grow.  
-- 🐱 Cats are the best! I'm always happy to share cat facts (or pictures).  
-- 🎮 Gamer at heart—Minecraft holds a special place in my coding journey (I love doing spigot plugins :p).
-
----
