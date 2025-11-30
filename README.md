@@ -28,10 +28,10 @@
     </td>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats-flaffy-o7ec.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages (Dark)" />
+        <img src="https://github-readme-stats-flaffy-o7ec.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax,github-readme-stats-flaffy&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages (Dark)" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img src="github-readme-stats-flaffy-o7ec.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax&exclude_repo=github-readme-stats-flaffy&layout=donut&theme=default#gh-light-mode-only" alt="Top Languages (Light)" />
+        <img src="https://github-readme-stats-flaffy-o7ec.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax,github-readme-stats-flaffy&layout=donut&theme=default#gh-light-mode-only" alt="Top Languages (Light)" />
       </a>
     </td>
   </tr>
