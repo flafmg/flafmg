@@ -20,18 +20,18 @@
   <tr>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats-flaffy-git-main-flafmgs-projects.vercel.app/api?username=flafmg&show_icons=true&theme=dark#gh-dark-mode-only" alt="flaffmg's GitHub Stats (Dark)" />
+        <img src="https://github-readme-stats-flaffy-o7ec.vercel.app/api?username=flafmg&show_icons=true&theme=dark#gh-dark-mode-only" alt="flaffmg's GitHub Stats (Dark)" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img src="https://github-readme-stats-flaffy-git-main-flafmgs-projects.vercel.app/api?username=flafmg&show_icons=true&theme=default#gh-light-mode-only" alt="flaffmg's GitHub Stats (Light)" />
+        <img src="https://github-readme-stats-flaffy-o7ec.vercel.app/api?username=flafmg&show_icons=true&theme=default#gh-light-mode-only" alt="flaffmg's GitHub Stats (Light)" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats-flaffy-git-main-flafmgs-projects.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages (Dark)" />
+        <img src="https://github-readme-stats-flaffy-o7ec.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages (Dark)" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img src="https://github-readme-stats-flaffy-git-main-flafmgs-projects.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax&layout=donut&theme=default#gh-light-mode-only" alt="Top Languages (Light)" />
+        <img src="github-readme-stats-flaffy-o7ec.vercel.app/api/top-langs/?username=flafmg&exclude_repo=srb2-ax&layout=donut&theme=default#gh-light-mode-only" alt="Top Languages (Light)" />
       </a>
     </td>
   </tr>
