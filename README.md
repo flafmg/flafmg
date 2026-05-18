@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **flafmg**
 
-💻 Passionate about building creative projects
-🌍 From **Brazil** | 🐱 Cat lover | 🎮 I do silly stuff
+💻 I Love coding random stuff
+🌎 From **Brazil** | 🐱 Cat lover | 🎮 I do silly stuff
 
 ---
 
